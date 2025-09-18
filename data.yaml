@@ -1,0 +1,7 @@
+path: /csse/users/tth92/Desktop/Computer Vision/project/pedestrian_dataset
+train: train/images
+val: test/images
+test: test/images
+
+nc: 1
+names: ['pedestrian']
